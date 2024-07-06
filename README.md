@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript Basics
+A code repo for JavaScript Basics
